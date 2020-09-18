@@ -35,7 +35,7 @@ apt list --upgradable
 ```
 The commands above should get you up and running. You can find specific commands below:
 # :ledger: Contents 
-1. system level
+1. <a href="https://github.com/jaitjacob/CommandPi/blob/master/system_commands.md" target="_blank">System level</a>
 2. rarely used commands
 3. custom
 4. know your commands better
