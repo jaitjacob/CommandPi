@@ -1,6 +1,7 @@
 # System Commands
 
-1. df
+1. **df**
+
 df (display filesystem) command displays information about the disk space usage of all mounted filesystems.
 ```
 ubuntu@ubuntu:/$ df
