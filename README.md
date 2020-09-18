@@ -33,3 +33,11 @@ Refresh your local package index using the following command,
 sudo apt update
 apt list --upgradable
 ```
+The commands above should get you up and running. You can find specific commands below:
+# :ledger: Contents 
+1. system level
+2. rarely used commands
+3. custom
+4. know your commands better
+5.
+6.
