@@ -1,7 +1,7 @@
 # Welcome to CommandPi
 
 <p align="center">
-  <img alt="this is a logo I created for this repo. it's a raspberry with two icons underneath - a shell and a red pin" width="300" height="300" src="/assets/CommandPiLogo.png">
+  <img alt="this is a logo I created for this repo. it's a raspberry with two icons underneath - a shell and a red pin" width="400" height="400" src="/assets/v2.png">
 </p>
 
 This project documents every commands I've used on my Pi. I dont make it a habit to remember any commands or flags. I just google it when I'm looking for something. I thought maybe it's a good idea to list some good ones here so I do not have to go hunting them. Yes, sometimes you get different search results - the Internet is constantly evolving. I'll sure try to keep this as updated as possible but no guarantees. 
