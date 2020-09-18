@@ -1,10 +1,10 @@
-# CommandPi
+# Welcome to CommandPi
 
 <p align="center">
   <img alt="this is a logo I created for this repo. it's a raspberry with two icons underneath - a shell and a red pin" width="300" height="300" src="/assets/CommandPiLogo.png">
 </p>
 
-Just documenting every commands I've used on my Pi. I normally dont remember any commands or flags. I just google when I'm looking for something that's when it struck me that I should maybe just create a listicle like this.
+This project documents every commands I've used on my Pi. I dont make it a habit to remember any commands or flags. I just google it when I'm looking for something. I thought maybe it's a good idea to list some good ones here so I do not have to go hunting them. Yes, sometimes you get different search results - the Internet is constantly evolving. I'll sure try to keep this as updated as possible but no guarantees. 
 
 :sparkles: What RPi do I have? :sparkles:
 
@@ -13,9 +13,7 @@ cat /proc/cpuinfo
 ```
 Output:
 ```
-processor       : 0
 model name      : ARMv7 Processor rev 4 (v7l)
-BogoMIPS        : 51.20
 Features        : half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32
 CPU implementer : 0x41
 CPU architecture: 7
@@ -23,8 +21,6 @@ CPU variant     : 0x0
 CPU part        : 0xd03
 CPU revision    : 4
 Hardware        : BCM2835
-Revision        : a2
-Serial          : ####
 Model           : Raspberry Pi 3 Model B Rev 1.2
 ```
 
@@ -41,8 +37,7 @@ apt list --upgradable
 The commands above should get you up and running. You can find specific commands below:
 # :ledger: Contents 
 1. <a href="https://github.com/jaitjacob/CommandPi/blob/master/system_commands.md" target="_blank">System level</a>
-2. rarely used commands
-3. custom
-4. know your commands better
-5.
-6.
+2. Rarely used commands
+3. Custom
+4. Know your commands better
+5. **work in progress**
