@@ -1,4 +1,9 @@
 # CommandPi
+
+<p align="center">
+  <img alt="this is a logo I created for this repo. it's a raspberry with two icons underneath - a shell and a red pin" width="300" height="300" src="/assets/CommandPiLogo.png">
+</p>
+
 Just documenting every commands I've used on my Pi. I normally dont remember any commands or flags. I just google when I'm looking for something that's when it struck me that I should maybe just create a listicle like this.
 
 :sparkles: What RPi do I have? :sparkles:
