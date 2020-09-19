@@ -15,3 +15,8 @@ tmpfs             436668       0    436668   0% /dev/shm
 tmpfs              87332       0     87332   0% /run/user/1000
 /dev/loop3         46848   46848         0 100% /snap/core18/1889
 ```
+2. **Kill a process associated with a port**
+
+Sometimes when I run a webserver it happens ever so that the port it was listening on does not get released. I have to manually kill the process to free the port. 
+
+```sudo kill -9 `sudo lsof -t -i: <insert port number her> ```
