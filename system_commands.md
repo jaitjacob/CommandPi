@@ -32,7 +32,7 @@ Cached:           176244 kB
 SwapCached:            0 kB
 ```
 
-# Display memory information
+4. **Display memory information**
 ```cat /proc/meminfo```
 ```Output:
 processor       : 0
