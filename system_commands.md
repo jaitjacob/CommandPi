@@ -20,3 +20,28 @@ tmpfs              87332       0     87332   0% /run/user/1000
 Sometimes when I run a webserver it happens ever so that the port it was listening on does not get released. I have to manually kill the process to free the port. 
 
 ```sudo kill -9 `sudo lsof -t -i: <insert port number her> ```
+
+3. **Display CPU information**
+```cat /proc/cpuinfo```
+```Output:
+MemTotal:         873336 kB
+MemFree:          494668 kB
+MemAvailable:     712460 kB
+Buffers:           33728 kB
+Cached:           176244 kB
+SwapCached:            0 kB
+```
+
+# Display memory information
+```cat /proc/meminfo```
+```Output:
+processor       : 0
+model name      : ARMv7 Processor rev 4 (v7l)
+BogoMIPS        : 38.40
+Features        : half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm crc32
+CPU implementer : 0x41
+CPU architecture: 7
+CPU variant     : 0x0
+CPU part        : 0xd03
+CPU revision    : 4
+```
