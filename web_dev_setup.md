@@ -15,5 +15,11 @@ This command will remove the package and retain the configuration files. These m
 This will uninstall the package and remove the configuration files associated with it.
 
 **Get a scaffold web app ready using npx**</br>
-You can run the application generator with the npx command (available in Node.js 8.2.0).
+You can run the application generator with the npx command (available in Node.js 8.2.0).</br>
 ```$ npx express-generator```
+
+**Install dependencies:**</br>
+```$ npm install```
+
+**On Windows Command Prompt, use this command to run this app in DEBUG mode**</br>
+```> set DEBUG=myapp:* & npm start```
