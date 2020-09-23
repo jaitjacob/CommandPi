@@ -45,3 +45,10 @@ CPU variant     : 0x0
 CPU part        : 0xd03
 CPU revision    : 4
 ```
+
+5. **Setting the correct timezone**</br>
+```timedatectl set-timezone Australia/Melbourne```</br>
+This command will set my timezone to AEST/Melbourne. To see a list of valid timezones enter the following command.</br>
+```timedatectl list-timezones```</br>
+If you want to check what the current timezone is set to then,</br>
+```timedatectl status```</br>
